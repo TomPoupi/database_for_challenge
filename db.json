@@ -1,11 +1,13 @@
 {
     "challengeTom": [
         {
+            "id": 0,
             "description": "fais moi des bisous",
             "enCours": false,
             "estfini": false
         },
         {
+            "id": 1,
             "description": "fais moi un calin",
             "enCours": false,
             "estfini": false
@@ -13,11 +15,13 @@
     ],
     "challengeJess": [
         {
+            "id": 0,
             "description": "dessine moi un truc",
             "enCours": false,
             "estfini": false
         },
         {
+            "id": 1,
             "description": "ecrit moi une histoire",
             "enCours": false,
             "estfini": false
