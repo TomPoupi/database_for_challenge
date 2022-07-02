@@ -1,29 +1,30 @@
 {
     "challengeTom": [
         {
-            "description": "fais moi un bisous",
+            "description": "fais moi des bisous",
             "enCours": false,
-            "estFini": false,
+            "estfini": false
         },
         {
             "description": "fais moi un calin",
             "enCours": false,
-            "estFini": false,
+            "estfini": false
         }
     ],
     "challengeJess": [
         {
-            "description": "fais moi un bisous",
+            "description": "dessine moi un truc",
             "enCours": false,
-            "estFini": false,
+            "estfini": false
         },
         {
-            "description": "fais moi un calin",
+            "description": "ecrit moi une histoire",
             "enCours": false,
-            "estFini": false,
+            "estfini": false
         }
     ]
 }
+
 
 
 
